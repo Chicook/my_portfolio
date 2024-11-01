@@ -57,7 +57,7 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-            I'm a tech enthusiast who loves building digital solutions. I
+            I&apos;m a tech enthusiast who loves building digital solutions. I
             develop websites, design user interfaces, and write code. I pay
             attention to details and solve problems to create useful and
             easy-to-use digital products.
